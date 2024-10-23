@@ -1,0 +1,19 @@
+name: monsoon-pr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.12
+  - ipykernel
+  - gcsfs
+  - numpy
+  - scipy
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - planetary-computer
+  - pystac-client
+  - cartopy
+  - basemap
+  - matplotlib
+  - proplot
