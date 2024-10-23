@@ -51,8 +51,11 @@ coverage.xml
 *.swo
 
 ## Other
-# /data/              # Exclude data from source control by default
-*.nc                # Exclude netCDF (data) files
+data/raw/*          # Data files contained in data organization structure 
+data/interim/*
+data/processed/*
+data/external/*  
+*.nc                
 docs/_build/        # Sphinx documentation
 target/             # PyBuilder
 .env                # Environment configuration
