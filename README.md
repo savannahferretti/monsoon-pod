@@ -1,9 +1,11 @@
 Explaining South Asian Monsoon Rainfall Seasonality Using a Metric of Buoyancy
 ------------
 
-By S. L. Ferretti<sup>1</sup>, L. Peng<sup>1</sup>, J. W. Baldwin<sup>1</sup>, & M. S. Pritchard<sup>1</sup>
+By S. L. Ferretti<sup>1</sup>, L. Peng<sup>1</sup>, J. W. Baldwin<sup>1,2</sup>, F. Ahmed<sup>3</sup>, & M. S. Pritchard<sup>1</sup>
 
 <sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
+<sup>2</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA
+<sup>3</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA
 
 **Status:** This manuscript is currently being written. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
 
