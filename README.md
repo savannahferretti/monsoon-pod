@@ -1,11 +1,11 @@
 Stress-Testing a Process-Oriented Diagnostic Relating Tropical Rainfall to Plume Buoyancy
 ------------
 
-By Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
+Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
 
-<sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
-<sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA
-<sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA
+<sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA \\
+<sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA \\
+<sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA \\
 
 **Status:** This manuscript is currently in revision at *Geophysical Research Letters*. The preprint is availabe [here](https://essopenarchive.org/users/523896/articles/1272710-stress-testing-a-process-oriented-diagnostic-relating-tropical-rainfall-to-plume-buoyancy?commit=6e81c27fd796130f6e13c3a2273a6d76d79b5729). We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
 
