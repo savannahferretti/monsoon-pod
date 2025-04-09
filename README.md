@@ -1,7 +1,7 @@
 Stress-Testing a Process-Oriented Diagnostic Relating Tropical Rainfall to Plume Buoyancy
 ------------
 
-By S. L. Ferretti<sup>1</sup>, M. S. Pritchard<sup>1</sup>, F. Ahmed<sup>2</sup>, L. Peng<sup>1</sup>, & J. W. Baldwin<sup>1,3</sup>
+By Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
 
 <sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
 <sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA
@@ -21,7 +21,7 @@ Project Organization
 ├── data/
 │   ├── raw/           <- Original, immutable ERA5 and IMERG data
 │   ├── interim/       <- Intermediate data that has been transformed
-│   └── raw/           <- Final analysis-ready data
+│   └── processed/     <- Final analysis-ready data
 │
 ├── figs/              <- Generated figures/graphics used in the manuscript
 │
@@ -32,7 +32,7 @@ Project Organization
 
 Acknowledgements
 -------
-This research was supported by [LEAP NSF-STC](https://leap.columbia.edu/), the DOE [ASCR Program](https://www.energy.gov/science/ascr/advanced-scientific-computing-research), the DOE [RGMA Program](https://eesm.science.energy.gov/program-area/regional-global-model-analysis), and the [Exascale Computing Project](https://www.exascaleproject.org/) (17-SC-20-SC), a collaborative effort of the DOE and NNSA. Computational resources were provided by [Bridges-2](https://www.psc.edu/resources/bridges-2/) at the Pittsburgh Supercomputing Center, with much of this code reproduced from the NOAA MDTF [GitHub](https://github.com/NOAA-GFDL/MDTF-diagnostics). Additionally, we thank Quentin Nicolas, William Boos, and Nana Liu for their help shaping the early stages of this work.
+This research was supported by [LEAP NSF-STC](https://leap.columbia.edu/), the DOE [ASCR Program](https://www.energy.gov/science/ascr/advanced-scientific-computing-research), the DOE [RGMA Program](https://eesm.science.energy.gov/program-area/regional-global-model-analysis), and the [Exascale Computing Project](https://www.exascaleproject.org/), a collaborative effort of the DOE and NNSA. Computational resources were provided by [Bridges-2](https://www.psc.edu/resources/bridges-2/) at the Pittsburgh Supercomputing Center, with much of this code reproduced from the NOAA MDTF [GitHub](https://github.com/NOAA-GFDL/MDTF-diagnostics). Additionally, we thank Quentin Nicolas, William Boos, and Nana Liu for their help shaping the early stages of this work.
 
 --------
 <p><small>This template is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
