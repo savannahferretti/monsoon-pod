@@ -1,4 +1,4 @@
-Stress-Testing a Process-Oriented Diagnostic Relating Tropical Rainfall to Plume Buoyancy
+Explaining South Asian Monsoon Rainfall Seasonality Using a Metric of Plume Buoyancy
 ------------
 
 Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
