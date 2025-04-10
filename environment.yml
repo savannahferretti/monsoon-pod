@@ -1,4 +1,4 @@
-name: monsoon-pr
+name: monsoon-pod
 channels:
   - conda-forge
 dependencies:
