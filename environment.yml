@@ -8,6 +8,7 @@ dependencies:
   - numpy
   - scipy
   - xarray
+  - xesmf
   - dask
   - netcdf4
   - bottleneck
