@@ -1,19 +1,22 @@
-name: monsoon-pr
+name: monsoon-pod
 channels:
   - conda-forge
 dependencies:
-  - python=3.9.12
-  - ipykernel
+  - basemap
+  - bottleneck
+  - cartopy
+  - dask
   - gcsfs
+  - ipykernel
+  - matplotlib
+  - netcdf4
   - numpy
+  - planetary-computer
+  - proplot
+  - pystac-client
+  - python=3.9.12
   - scipy
   - xarray
-  - dask
-  - netcdf4
-  - bottleneck
-  - planetary-computer
-  - pystac-client
-  - cartopy
-  - basemap
-  - matplotlib
-  - proplot
+  - zarr
+  - xesmf
+prefix: /global/homes/s/sferrett/.conda/envs/monsoon-pod
