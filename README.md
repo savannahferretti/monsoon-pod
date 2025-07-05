@@ -21,16 +21,16 @@ Project Organization
 ```
 ├── LICENSE.md         <- License for code
 │
-├── README.md          <- Top-level information on this code base
+├── README.md          <- Top-level information on this code base/ & manuscript
 │
 ├── data/
-│   ├── raw/           <- Original, immutable ERA5 and IMERG data
+│   ├── raw/           <- Original ERA5, IMERG V06, and GPCP data
 │   ├── interim/       <- Intermediate data that has been transformed
 │   └── processed/     <- Final analysis-ready data
 │
-├── figs/              <- Generated figures/graphics used in the manuscript
+├── figs/              <- Generated figures used in the manuscript
 │
-├── notebooks/         <- Jupyter notebooks for data processing, analysis, \& visualizations  
+├── notebooks/         <- Jupyter notebooks for data processing, analysis, & visualizations  
 │
 └── environment.yml    <- File for reproducing the analysis environment
 ```
@@ -38,7 +38,7 @@ Project Organization
 Acknowledgements
 -------
 
-The analysis for this work has been performed on PSC's [Bridges-2](https://www.psc.edu/resources/bridges-2/) and NERSC's [Perlmutter](https://docs.nersc.gov/systems/perlmutter/architecture/). This research was primarily funded by [LEAP NSF-STC](https://leap.columbia.edu/), with additional support from the DOE's [ASCR](https://www.energy.gov/science/ascr/advanced-scientific-computing-research) and [RGMA](https://eesm.science.energy.gov/program-area/regional-global-model-analysis) Programs, the [Exascale Computing Project](https://www.exascaleproject.org/),  the [NSF AGS](https://www.nsf.gov/geo/ags), and NASA's [ECIP-ES](https://science.nasa.gov/earth-science/early-career-opportunities/#h-early-career-investigator-program-in-earth-science). Additionally, we thank Quentin Nicolas, William R. Boos, and Nana Liu for their valuable input in shaping the early stages of this work.
+The analysis for this work has been performed on PSC's [Bridges-2](https://www.psc.edu/resources/bridges-2/) and NERSC's [Perlmutter](https://docs.nersc.gov/systems/perlmutter/architecture/). This research was primarily funded by [LEAP NSF-STC](https://leap.columbia.edu/), with additional support from the DOE's [ASCR](https://www.energy.gov/science/ascr/advanced-scientific-computing-research) and [RGMA](https://eesm.science.energy.gov/program-area/regional-global-model-analysis) Programs, the [Exascale Computing Project](https://www.exascaleproject.org/), [NSF AGS](https://www.nsf.gov/geo/ags), and NASA's [ECIP-ES](https://science.nasa.gov/earth-science/early-career-opportunities/#h-early-career-investigator-program-in-earth-science). Additionally, we thank Quentin Nicolas, William R. Boos, and Nana Liu for their valuable input in shaping the early stages of this work.
 
 --------
 <p><small>This template is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
