@@ -1,0 +1,23 @@
+name: monsoon-pod
+channels:
+  - conda-forge
+dependencies:
+  - basemap
+  - bottleneck
+  - cartopy
+  - dask
+  - gcsfs
+  - ipykernel
+  - matplotlib
+  - netcdf4
+  - numpy
+  - planetary-computer
+  - proplot
+  - pystac-client
+  - python=3.9.12
+  - scipy
+  - xarray
+  - zarr
+  - xesmf
+  - adlfs
+prefix: /global/homes/s/sferrett/.conda/envs/monsoon-pod
