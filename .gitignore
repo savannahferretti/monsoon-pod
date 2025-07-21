@@ -37,6 +37,9 @@ coverage.xml                # Coverage XML reports
 .pytest_cache/              # Pytest cache directory
 .ipynb_checkpoints/         # Jupyter notebook checkpoint files
 */.ipynb_checkpoints/*      # Checkpoint files in any subdirectory
+data/raw/*                  # Contents of the raw data subdirectory
+data/interim/*              # Contents of the interim data subdirectory
+data/processed/*            # Contents of the processed data subdirectory
 *.nc                        # NetCDF files (climate/weather data)
 *.hdf5                      # HDF5 data files
 *.h5                        # HDF5 data files (alternative extension)
@@ -89,6 +92,3 @@ site/                       # MkDocs site directory
 dmypy.json                  # MyPy daemon configuration
 *.mo                        # Compiled translation files
 *.pot                       # Translation template files
-data/raw/*
-data/interim/*
-data/processed/*
