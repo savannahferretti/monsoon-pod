@@ -1,5 +1,15 @@
-**/.ipynb_checkpoints/ # Jupyter checkpoint files
-data/**/*              # Ignore all files and subdirectories within any directory under data/
-!data/**/              # But don't ignore the directories themselves (allow empty directories to be tracked)
-!data/**/.gitkeep      # And specifically don't ignore .gitkeep files (used to preserve empty directory structure)
-*.nc                   # Ignore large NetCDF data files
+**/.ipynb_checkpoints/     # Jupyter checkpoint files
+
+# Exclude everything in data subdirectories
+data/raw/*
+data/interim/*
+data/processed/*
+data/external/*
+
+# Exception to the rule - keep .gitkeep files
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+*.nc                       # Ignore large NetCDF data files
