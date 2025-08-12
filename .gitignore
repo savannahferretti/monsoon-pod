@@ -1,12 +1,10 @@
-# Jupyter checkpoint files
+# Ignore Jupyter checkpoint files
 **/.ipynb_checkpoints/     
 
-# Exclude everything in data subdirectories
+# Ignore everything in data subdirectories except the .gitkeep files
 data/raw/*
 data/interim/*
 data/processed/*
-
-# Exception to the rule - keep .gitkeep files
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 !data/processed/.gitkeep
