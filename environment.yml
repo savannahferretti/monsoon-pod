@@ -20,4 +20,3 @@ dependencies:
   - zarr
   - xesmf
   - adlfs
-prefix: /global/homes/s/sferrett/.conda/envs/monsoon-pod
