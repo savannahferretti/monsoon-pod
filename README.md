@@ -21,7 +21,7 @@ Project Organization
 ```
 ├── LICENSE.md         <- License for code
 │
-├── README.md          <- Top-level information on this code base/ & manuscript
+├── README.md          <- Top-level information on this code base/manuscript
 │
 ├── data/
 │   ├── raw/           <- Original ERA5, IMERG V06, and GPCP data
