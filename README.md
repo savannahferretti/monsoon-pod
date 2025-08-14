@@ -7,7 +7,7 @@ Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<s
 <sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA  
 <sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA  
 
-**Status:** The [paper](https://doi.org/10.1029/2025GL115546) was published in *Geophysical Research Letters* in August 2025.. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
+**Status:** The [paper](https://doi.org/10.1029/2025GL115546) was published in *Geophysical Research Letters* in August 2025. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
 
 **Key Points**:
 - A buoyancy-based process-oriented diagnostic (POD) describes South Asian monsoon rainfall at monthly and subregional (500-1,000 km) scales
