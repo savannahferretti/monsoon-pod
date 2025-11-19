@@ -4,7 +4,7 @@ Explaining South Asian Monsoon Rainfall Seasonality Using a Metric of Plume Buoy
 Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
 
 <sup>1</sup>Department of Earth System Science, University of California Irvine, Irvine, CA, USA  
-<sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA  
+<sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California Los Angeles, Los Angeles, CA, USA  
 <sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA  
 
 **Status:** The [paper](https://doi.org/10.1029/2025GL115546) was published in *Geophysical Research Letters* in August 2025. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
