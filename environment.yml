@@ -2,6 +2,7 @@ name: monsoon-pod
 channels:
   - conda-forge
 dependencies:
+  - adlfs
   - basemap
   - bottleneck
   - cartopy
@@ -17,6 +18,5 @@ dependencies:
   - python=3.9.12
   - scipy
   - xarray
-  - zarr
   - xesmf
-  - adlfs
+  - zarr
