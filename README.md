@@ -30,7 +30,7 @@ Project Organization
 │
 ├── figs/              <- Generated figures used in the manuscript
 │
-├── notebooks/         <- Jupyter notebooks for data processing, analysis, & visualizations  
+├── notebooks/         <- Jupyter notebooks for data processing, analysis, and visualizations  
 │
 └── environment.yml    <- File for reproducing the analysis environment
 ```
