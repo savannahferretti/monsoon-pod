@@ -1,7 +1,4 @@
-# Ignore Jupyter checkpoint files
-**/.ipynb_checkpoints/     
-
-# Ignore everything in data subdirectories except the .gitkeep files
+# Ignore everything in data subdirectories except .gitkeep files
 data/raw/*
 data/interim/*
 data/processed/*
@@ -9,5 +6,8 @@ data/processed/*
 !data/interim/.gitkeep
 !data/processed/.gitkeep
 
-# Ignore large NetCDF data files
-*.nc                       
+# Ignore specific folder types
+**/.ipynb_checkpoints/ 
+
+# Ignore specific file types
+*.nc       
