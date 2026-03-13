@@ -1,13 +1,15 @@
 Explaining South Asian Monsoon Rainfall Seasonality Using a Metric of Plume Buoyancy
 ------------
 
-Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>
+[![DOI](https://zenodo.org/badge/877584651.svg)](https://doi.org/10.5281/zenodo.19005467)
 
+This repository contains the code used to reproduce the analyses in [Ferretti et al. (2025), _Geophysical Research Letters_](https://doi.org/10.1029/2025GL115546). A version of this code is archived on Zenodo at the DOI above. Questions or feedback can be sent to Savannah Ferretti (savannah.ferretti@uci.edu).
+
+**Authors & Affiliations:**  
+Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>  
 <sup>1</sup>Department of Earth System Science, University of California Irvine, Irvine, CA, USA  
 <sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California Los Angeles, Los Angeles, CA, USA  
-<sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA  
-
-**Status:** The [paper](https://doi.org/10.1029/2025GL115546) was published in *Geophysical Research Letters* in August 2025. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
+<sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, USA   
 
 **Abstract**: Localized tropical rainfall changes commonly occur on 500-1,000 km scales under various climate forcings, but understanding their causality remains challenging. One helpful process-oriented diagnostic (POD) decomposes the effects of undilute buoyancy and lower free-tropospheric moisture through a precipitation-buoyancy relationship, but its applicability at subregional scales is uncertain. We examine month-to-month rainfall changes in five South Asian monsoon subregions. The POD accurately characterizes the precipitation-buoyancy relationship across all subregions and successfully predicts the sign of rainfall changes in four out of five subregions. However, the POD's ability to predict rainfall change magnitudes and identify causal mechanisms varies, providing confident explanations in only two subregions, where lower free-tropospheric moisture emerges as the dominant driver of change. While these findings demonstrate the POD's utility in specific contexts, they also reveal limitations. We caution against using the POD as a standalone tool at these scales for predicting rainfall changes or decomposing their drivers.
 
