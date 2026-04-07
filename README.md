@@ -18,18 +18,13 @@ Project Organization
 ------------
 ```
 ├── LICENSE.md         <- License for code
-│
 ├── README.md          <- Top-level information on this code base/manuscript
-│
 ├── data/
 │   ├── raw/           <- Original ERA5, IMERG V06, and GPCP data
-│   ├── interim/       <- Intermediate data that has been transformed
-│   └── processed/     <- Final analysis-ready data
-│
-├── figs/              <- Generated figures used in the manuscript
-│
-├── notebooks/         <- Jupyter notebooks for data processing, analysis, and visualizations  
-│
+│   ├── interim/       <- Intermediate processed data
+│   └── processed/     <- Analysis-ready data
+├── figs/              <- Manuscript figures
+├── notebooks/         <- Jupyter notebooks for data processing, analysis, and visualization 
 └── environment.yml    <- File for reproducing the analysis environment
 ```
 
