@@ -8,8 +8,8 @@ This repository contains the code for the analyses in Ferretti et al. (2025, *Ge
 
 **Authors & Affiliations:**  
 Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>  
-<sup>1</sup>Department of Earth System Science, University of California Irvine, Irvine, CA, United States  
-<sup>2</sup>Department of Atmospheric and Oceanic Sciences, University of California Los Angeles, Los Angeles, CA, United States  
+<sup>1</sup>University of California Irvine, Irvine, CA, United States  
+<sup>2</sup>University of California Los Angeles, Los Angeles, CA, United States  
 <sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, United States  
 
 **Abstract**: Localized tropical rainfall changes commonly occur on 500-1,000 km scales under various climate forcings, but understanding their causality remains challenging. One helpful process-oriented diagnostic (POD) decomposes the effects of undilute buoyancy and lower free-tropospheric moisture through a precipitation-buoyancy relationship, but its applicability at subregional scales is uncertain. We examine month-to-month rainfall changes in five South Asian monsoon subregions. The POD accurately characterizes the precipitation-buoyancy relationship across all subregions and successfully predicts the sign of rainfall changes in four out of five subregions. However, the POD's ability to predict rainfall change magnitudes and identify causal mechanisms varies, providing confident explanations in only two subregions, where lower free-tropospheric moisture emerges as the dominant driver of change. While these findings demonstrate the POD's utility in specific contexts, they also reveal limitations. We caution against using the POD as a standalone tool at these scales for predicting rainfall changes or decomposing their drivers.
