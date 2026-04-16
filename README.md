@@ -7,7 +7,7 @@ Explaining South Asian Monsoon Rainfall Seasonality Using a Metric of Plume Buoy
 This repository contains the code for the analyses in Ferretti et al. (2025, *Geophysical Research Letters*). The exact version used in the paper is archived on Zenodo. For questions or feedback, contact Savannah Ferretti (savannah.ferretti@uci.edu).
 
 **Authors & Affiliations:**  
-Savannah L. Ferretti<sup>1</sup>, Michael S. Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane W. Baldwin<sup>1,3</sup>  
+Savannah Ferretti<sup>1</sup>, Mike Pritchard<sup>1</sup>, Fiaz Ahmed<sup>2</sup>, Liran Peng<sup>1</sup>, & Jane Baldwin<sup>1,3</sup>  
 <sup>1</sup>University of California Irvine, Irvine, CA, United States  
 <sup>2</sup>University of California Los Angeles, Los Angeles, CA, United States  
 <sup>3</sup>Lamont-Doherty Earth Observatory, Palisades, NY, United States  
